@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :employeerecords, Employeerecords.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "skittles",
   database: "employeerecords_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
